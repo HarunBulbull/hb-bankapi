@@ -1,5 +1,7 @@
 
 # HarunBulbull Bank BIN API
+Github: https://github.com/HarunBulbull/hb-bankapi
+
 This is a simple bin checker for banks in Turkey.
 
 #### Import
@@ -61,7 +63,6 @@ This is a simple bin checker for banks in Turkey.
 - ING BANK A.Ş.
 - MILLENNIUM BANK A.Ş.
 - TURKLAND BANK A.Ş.
-- FİNANS BANK A.Ş.
 - HSBC BANK A.Ş.
 - EUROBANK TEKFEN A.Ş.
 - DENİZBANK A.Ş.
@@ -71,7 +72,6 @@ This is a simple bin checker for banks in Turkey.
 - TÜRKİYE FİNANS KATILIM BANKASI A.Ş.
 - ASYA KATILIM BANKASI A.Ş.
 - PROVUS BİLİŞİM
-- YAPI VE KREDİ BANKASI A.Ş.
 - FIBABANKA A.Ş.
 - TEKSTİL BANKASI A.Ş.
 - ICBC TURKEY BANK A.Ş.
@@ -81,14 +81,10 @@ This is a simple bin checker for banks in Turkey.
 - AKTİF YATIRIM BANKASI A.Ş.
 - ODEA BANK A.Ş.
 - PAPARA ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.
-- FİNANS KATILIM BANKASI A.Ş.
-- TÜRK ELEKTRONİK PARA A.Ş.
 - VAKIF KATILIM BANKASI A.Ş.
 - İNİNAL ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.
-- AKTİF YATIRIM BANKASI A.Ş.
 - PALADYUM ELEKTRONİK PARA VE ÖDEME HİZMETLERİ A.Ş.
 - ZİRAAT KATILIM BANKASI A.Ş.
-- POSTA VE TELGRAF TEŞKİLATI A.Ş.
 - TÜRK ELEKRONİK PARA A.Ş.
 - TURKCELL ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş.
 - POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ
